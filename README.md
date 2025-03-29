@@ -1,3 +1,6 @@
+I made a design file too, just on the go, cause why not ^^ : 
+(https://www.figma.com/design/lmbALad7NB9NMU1hkRLxJc/cardesque?m=auto&t=m5lSsakjxQBvuRNh-1)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
